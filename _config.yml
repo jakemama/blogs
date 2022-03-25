@@ -117,4 +117,4 @@ deploy:
   type: git
   repo: https://github.com/jakemama/jakemama.github.io.git
   branch: master
-  token: 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
+  token: ''

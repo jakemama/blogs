@@ -7,7 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo clean && hexo g && hexo d",
     "server": "hexo server",
-    "dev": "hexo g; hexo s"
+    "start": "hexo g; hexo s"
   },
   "hexo": {
     "version": "6.1.0"
