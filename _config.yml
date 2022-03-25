@@ -120,7 +120,7 @@ aomori_social:
     url: https://github.com/jakemama
 algolia:
   applicationID: '96795YLOVI'
-  apiKey: 'a69c4200a5f23d8b486530cfba54065d'
+  apiKey: ''
   indexName: 'hexo'
 aomori_search_algolia: true
 
