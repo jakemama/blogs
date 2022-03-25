@@ -1,6 +1,0 @@
-deploy:
-  type: git
-  repo: https://github.com/jakemama/jakemama.github.io.git
-  branch: master
-  token: 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
-token每30天更新，不能上传到github上，不然会检测出来自动注销
