@@ -8,7 +8,9 @@ subtitle: 'Jake Ma'
 description: '马一栋的个人博客'
 keywords:
 author: Jake Ma
-language: en
+language:
+- cn
+- ja
 timezone: ''
 
 # URL
@@ -40,11 +42,11 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: fasle
+post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: fasle
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
@@ -102,6 +104,7 @@ aomori_logo_typed_animated: true
 aomori_menu:
   Home: /
   Archives: /archives
+  CV: /CV
 aomori_widgets:
   - toc # 文章导航
   - category  #文章分类
@@ -110,6 +113,16 @@ aomori_widgets:
   - archive #文章归档
 aomori_copyright: true # or false
 aomori_favicon: 📖
+aomori_social:
+  -
+    icon: github
+    type: code
+    url: https://github.com/jakemama
+algolia:
+  applicationID: '96795YLOVI'
+  apiKey: 'a69c4200a5f23d8b486530cfba54065d'
+  indexName: 'hexo'
+aomori_search_algolia: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
