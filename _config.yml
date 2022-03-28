@@ -103,7 +103,9 @@ theme: hexo-theme-aomori
 aomori_logo_typed_animated: true
 aomori_menu:
   Home: /
-  Archives: /archives
+  存档: /archives
+  摄影: /photography
+  2022计划: /plan
   CV: /CV
 aomori_widgets:
   - toc # 文章导航

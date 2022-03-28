@@ -1,0 +1,13 @@
+[
+  {
+      "thumbnail": "../images/avatar.jpeg",
+      "photo": "../images/avatar.jpeg",
+      "title": "看书",
+      "icon": {
+          "name": "unsplash",
+          "type": "logo",
+          "url": "https://linhong.me"
+      },
+      "place": "西西弗书店，China"
+  }
+]
