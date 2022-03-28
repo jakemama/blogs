@@ -6,3 +6,4 @@ aomori_widgets:
   - tag
   - recent_posts
   - archive
+excerpt_description: true
