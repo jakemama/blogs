@@ -125,6 +125,7 @@ algolia:
   apiKey: ''
   indexName: 'hexo'
 aomori_search_algolia: true
+aomori_google_analytics: 'G-NG4NENLKCQ'
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
