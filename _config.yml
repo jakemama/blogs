@@ -118,7 +118,7 @@ aomori_favicon: 📖
 aomori_social:
   -
     icon: github
-    type: code
+    type: logo
     url: https://github.com/jakemama
 algolia:
   applicationID: '96795YLOVI'
