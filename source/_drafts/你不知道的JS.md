@@ -66,3 +66,6 @@ this绑定优先级：new > 显式绑定 > 隐式绑定 > 默认绑定。
 bind(null, arg1)，bind可以传入null对参数进行柯里化（预先设置一些参数）
 
 Object.create(null)和"{}"很像，但是不会创建Object.prototype这个委托，所以它比{}“更空”
+
+## 9.对象
+
