@@ -70,3 +70,17 @@ Object.create(null)和"{}"很像，但是不会创建Object.prototype这个委�
 
 ## 9.对象
 
+in操作符会检查**属性名（不是属性的值）**是否在其对象及其原型链上，而hasOwnProperty()只会检查属性是否在对象中。hasOwnProperty()也是用原型上的方法实现的，所以对象没有原型链的话，函数就会失败。
+
+for...in...或者Object.keys(obj)循环用在对象上遍历**属性名**，如果属性名的可枚举属性enumerable设置成fasle，就遍历不到了。若要全部遍历出来，用Object.getOwnPropertyNames(obj)
+
+for...of...循环用在数组上**属性值**
+
+## 10.类
+多态：父类的通用行为可以被子类的特殊行为重写
+
+总而言之，js中尽量不要模拟类的实现。得不偿失
+
+## 11.原型
+a instanceof b
+instanceof的判断依据：在a的整条[[Prototype]]链中是否有Foo.prototype指向的对象
