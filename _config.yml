@@ -105,7 +105,7 @@ aomori_menu:
   Home: /
   存档: /archives
   摄影: /photography
-  2022计划: /plan
+  年度计划: /plan
   CV: /CV
 aomori_widgets:
   - toc # 文章导航
