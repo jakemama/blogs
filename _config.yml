@@ -106,7 +106,7 @@ aomori_menu:
   存档: /archives
   摄影: /photography
   年度计划: /plan
-  CV: /CV
+  # CV: /CV
 aomori_widgets:
   - toc # 文章导航
   - category  #文章分类
