@@ -104,7 +104,7 @@ aomori_logo_typed_animated: true
 aomori_menu:
   Home: /
   存档: /archives
-  摄影: /photography
+  照片墙: /photography
   年度计划: /plan
   # CV: /CV
 aomori_widgets:
