@@ -21,7 +21,9 @@ date: 2022-03-25 16:25:59
   - **入职新浪技术（中国）有限公司担任前端工程师**
 - 2021
   - 基于node的内容抓取和邮件订阅发送功能、docker镜像部署
+  - 后台管理系统开发：基于elementUI/quarse + vue技术栈
+  - 排版服务（cheerio）
 - 2022
-  - 基于github page的个人网站搭建
-  - 编写基于python的网站内容抓取脚本
-  - 前端基本开发能力：后台管理系统、H5端等任意业务开发
+  - 基于github page和hexo的个人网站搭建
+  - [编写基于python的网站内容抓取脚本](https://github.com/jakemama/pythonScriptDemo)
+  - H5端等业务开发、埋点（vue）：疫情相关业务，商业化需求
