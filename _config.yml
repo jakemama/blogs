@@ -134,3 +134,7 @@ deploy:
   repo: https://github.com/jakemama/jakemama.github.io.git
   branch: master
   token: ''
+
+# 站点地图插件
+sitemap:
+  path: sitemap.xml
