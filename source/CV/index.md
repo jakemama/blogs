@@ -27,3 +27,4 @@ date: 2022-03-25 16:25:59
   - 基于github page和hexo的个人网站搭建
   - [编写基于python的网站内容抓取脚本](https://github.com/jakemama/pythonScriptDemo)
   - H5端等业务开发、埋点（vue）：疫情相关业务，商业化需求
+  - 动画游戏（pixi.js）：七夕活动
