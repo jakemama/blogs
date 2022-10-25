@@ -28,4 +28,4 @@ date: 2022-03-25 16:25:59
   - [编写基于python的网站内容抓取脚本](https://github.com/jakemama/pythonScriptDemo)
   - H5端等业务开发、埋点（vue）：疫情相关业务，商业化需求
   - 动画游戏（pixi.js）：[七夕测一测活动、中秋测一测活动](http://wap_front.dev.sina.cn/marauder/demo_gallery/web/index/)
-  - 低代码业务开发：电商广告后台系统模版的新增和维护。
+  - 无/低代码业务开发：电商广告后台系统落地页模版的新增和维护。
