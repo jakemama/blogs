@@ -29,3 +29,4 @@ date: 2022-03-25 16:25:59
   - H5端等业务开发、埋点（vue）：疫情相关业务，商业化需求
   - 动画游戏（pixi.js）：[七夕测一测活动、中秋测一测活动](http://wap_front.dev.sina.cn/marauder/demo_gallery/web/index/)
   - 无/低代码业务开发：电商广告后台系统落地页模版的新增和维护。
+  - 通过 wasm\ffmpeg 实现 video 的逐帧播放。（该项目是基于 [Broadway.js](https://github.com/mbebenita/Broadway) 的二次封装）
