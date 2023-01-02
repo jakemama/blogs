@@ -2,6 +2,8 @@
 title: 当贝DBH2电视盒子翻墙观看YouTube
 tags:
   - 笔记
+categories:
+  - 随笔
 date: 2023-01-03 00:41:05
 ---
 
