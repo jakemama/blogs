@@ -89,8 +89,20 @@ mongodump -h 127.0.0.1 --port 27017 -d test -u admin -p 123456 -o /root/mongo/db
 
 大功告成，撒花
 
+## 最新版本node报错问题
+在排查的过程中因为升级node版本，触发了一个报错：
+
+```
+node: /lib64/libm.so.6: version `GLIBC_2.27' not found (required by node)
+node: /lib64/libc.so.6: version `GLIBC_2.25' not found (required by node)
+node: /lib64/libc.so.6: version `GLIBC_2.28' not found (required by node)
+```
+
+发生此错误可能是因为您正在使用node的最新版本，还是建议使用LTS版本(大多数用户建议使用16.15.0 LTS)而不是最新版本。所以我的建议是使用NodeJS 16 LTS版本。
+
 ## 参考
 1. [mongodb版本过高，client driver不支持](https://community.openhab.org/t/mongodb-server-version-the-client-driver-may-require-an-upgrade/138362)
 2. [mongodump 报错:errmsg: "Auth mechanism not specified](https://blog.csdn.net/kjh2007abc/article/details/103104731)
 3. [mongodump工具安装及使用详解](https://blog.csdn.net/weixin_44799217/article/details/127940551?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-127940551-blog-110732889.pc_relevant_multi_platform_whitelistv3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-127940551-blog-110732889.pc_relevant_multi_platform_whitelistv3)
-4. 
+4. [mongodb 使用mongodump备份 指定用户名密码 出现错误 Failed: error connecting to db server: server returned error on SASL authentication step: Authentication failed](https://www.cnblogs.com/mingerlcm/p/10701745.html)
+5. [node: /lib64/libm.so.6: version `GLIBC_2.27‘ not found (required by node) 报错解决](https://blog.csdn.net/coin535/article/details/126951071)
