@@ -40,3 +40,6 @@ date: 2022-03-25 16:25:59
   - 无/低代码业务开发：电商广告后台系统落地页模版的新增和维护。
   - 通过 wasm\ffmpeg 实现 video 的逐帧播放。（该项目是基于 [Broadway.js](https://github.com/mbebenita/Broadway) 的二次封装）
   - 开始打拳（9月份）
+  - 
+- 2023
+  - 
