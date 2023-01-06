@@ -31,15 +31,18 @@ date: 2022-03-25 16:25:59
 - 2021
   - 基于node的内容抓取和邮件订阅发送功能、docker镜像部署
   - 后台管理系统开发：基于elementUI/quarse + vue技术栈
-  - 排版服务（cheerio）
+  - 排版服务（cheerio）、正则、dfs、html结构
 - 2022
   - 基于github page和hexo的个人网站搭建
+  - appium实现真机模拟实现广告劫持排查，防范攻击，优化体验
   - [编写基于python的网站内容抓取脚本](https://github.com/jakemama/pythonScriptDemo)
-  - H5端等业务开发、埋点（vue）：疫情相关业务，商业化需求
+  - H5端等业务开发、埋点（vue）：疫情相关业务，商业化需求、2022暴雨求助页面
   - 动画游戏（pixi.js）：[七夕测一测活动、中秋测一测活动](http://wap_front.dev.sina.cn/marauder/demo_gallery/web/index/)
   - 无/低代码业务开发：电商广告后台系统落地页模版的新增和维护。
   - 通过 wasm\ffmpeg 实现 video 的逐帧播放。（该项目是基于 [Broadway.js](https://github.com/mbebenita/Broadway) 的二次封装）
-  - 开始打拳（9月份）
-  - 
+  - 开始打拳，拳击生涯开始（9月份）
+  - 封装cnpm公共包，呼端功能
+  - vuex存储用户公共状态
+  - Sina内部相关：微博用户登录判断、呼端功能、用户手机号授权、自动发博、自动关注
 - 2023
-  - 
+  - mongodb基本操作，部署docker镜像到云服务器
