@@ -31,7 +31,7 @@ NPM的全称是Node Package Manager，是一个NodeJS包管理和分发工具，
 npm install xxx		//把xxx安装在当前目录
 npm i xxx -g		//把xxx安装在全局 global
 npm i xxx@xx.xx		//安装制定版本号的xxx	eg：npm i jquery@1.11.3
-npm uninstall xxx	/-g		//卸载xxx包
+npm uninstall xxx	-g		//卸载xxx包
 ```
 安装在全局的作用：
 
