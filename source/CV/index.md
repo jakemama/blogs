@@ -49,4 +49,4 @@ date: 2022-03-25 16:25:59
   - （独立网站上线、域名注册、前后端开发 vue+node）
   - 阿里云云计算工程师认证（ACP）
   - 普通话等级考试：二级甲等
-  - uniapp客户端开发：一键登录及预登录、unicloud云函数调用
+  - uniapp客户端开发：一键登录及预登录、unicloud云函数调用、端上renderjs调用window/document对象
