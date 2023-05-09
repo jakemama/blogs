@@ -5,14 +5,6 @@ date: 2022-03-25 16:25:59
 ---
 # 博主CV
 
-## 核心竞争力
-- HTML、CSS、JS
-  - CSS深入、负责业务CSS样式设计和规范制定
-- VUE
-- NODE
-- DOCKER
-- WASM
-- PIXI
 
 ## Milestone by Years
 <!-- 积累所有可被量化的进步和成就 -->
@@ -46,7 +38,7 @@ date: 2022-03-25 16:25:59
   - Sina内部相关：微博用户登录判断、呼端功能、用户手机号授权、自动发博、自动关注
 - 2023
   - mongodb基本操作，部署docker镜像到云服务器
-  - （独立网站上线、域名注册、前后端开发 vue+node）
+  - （独立网站部署上线、域名注册、前后端开发 vue+node）
   - 阿里云云计算工程师认证（ACP）
   - 普通话等级考试：二级甲等
-  - uniapp客户端开发：一键登录及预登录、unicloud云函数调用、端上renderjs调用window/document对象
+  - uniapp客户端开发：一键登录及预登录、unicloud云函数调用，端上renderjs调用window/document对象，安卓证书签名及apk打包，app启动页splash页自定义
