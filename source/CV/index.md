@@ -43,3 +43,4 @@ date: 2022-03-25 16:25:59
   - 普通话等级考试：二级甲等
   - uniapp客户端开发：（微信QQ手机号）一键登录及预登录、unicloud云函数调用，端上renderjs调用window/document对象，安卓证书签名及apk打包，app启动页splash页自定义
   - nginx服务器搭建
+  - lodash库
