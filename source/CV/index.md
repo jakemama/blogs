@@ -42,5 +42,5 @@ date: 2022-03-25 16:25:59
   - 阿里云云计算工程师认证（ACP）
   - 普通话等级考试：二级甲等
   - uniapp客户端开发：（微信QQ手机号）一键登录及预登录、unicloud云函数调用，端上renderjs调用window/document对象，安卓证书签名及apk打包，app启动页splash页自定义（.9.png图片制作），热更新功能（支持自定义页面样式），自建防沉迷系统
-  - nginx服务器搭建
-  - 前端常用库、解决方案：lodash库
+  - nginx服务器搭建、维护、部署、流量限制
+  - 前端常用库、解决方案：lodash库、xlsx、xlsx-populate
