@@ -6,7 +6,7 @@
 title: Jake Ma
 subtitle: JakeMa
 description: 马一栋的个人博客
-keywords: Ant-Thinker JakeMa 马一栋 博客  个人博客 前端 程序员 frontend program
+keywords: Ant-Thinker JakeMa 马一栋 博客  个人博客 前端 后端 数据库 程序员 frontend program
 author: JakeMa
 language:
 - cn
@@ -105,7 +105,7 @@ aomori_menu:
   Home: /
   存档: /archives
   照片墙: /photography
-  年度计划: /plan
+  # 年度计划: /plan
   # CV: /CV
 aomori_widgets:
   - toc # 文章导航
