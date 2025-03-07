@@ -1,7 +1,5 @@
 ---
 title: scss报错Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0
-layout: tweet
-icon: balloon
 categories:
   - 前端
 tags:
