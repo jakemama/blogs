@@ -3,7 +3,7 @@ title: CV
 comment: false
 date: 2022-03-25 16:25:59
 ---
-# 博主CV
+# MY CV
 
 
 ## Milestone by Years
@@ -68,3 +68,6 @@ date: 2022-03-25 16:25:59
   - **入职虹联信息技术**
   - 开始骑行
   - 棉花城后台管理系统项目（复杂vue3项目）
+  - 创建本地Ai知识库（deepseek + open WebUI）（deepseek+anythingLLM）（dify）（ima）
+    - 使用 dify 框架，创建 AI 知识库，并使用通义千问 text-embedding-v1 作为 Embedding 模型处理向量（Chunk/Embedding/Rerank/基座大模型）
+  - jeecgboot 掌握
